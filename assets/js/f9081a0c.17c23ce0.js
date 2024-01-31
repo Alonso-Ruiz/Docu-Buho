@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[167],{5621:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/Docu-Buho/blog/tags/facebook","allTagsPath":"/Docu-Buho/blog/tags","count":1,"unlisted":false}')}}]);
