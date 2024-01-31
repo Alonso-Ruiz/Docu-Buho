@@ -1,41 +1,15 @@
-# Website
+# Docusaurio-Buho
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Como pantalla principal nos aparecera:
 
-### Installation
+![image](https://github.com/Alonso-Ruiz/Docu-Buho/assets/125393214/157db7dc-2310-4c99-bb0a-2026d40c6b5b)
 
-```
-$ yarn
-```
 
-### Local Development
+![image](https://github.com/Alonso-Ruiz/Docu-Buho/assets/125393214/bb9084e1-ab21-4792-b72b-94b2fb92e2c7)
 
-```
-$ yarn start
-```
+Luego de dar click:
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+![image](https://github.com/Alonso-Ruiz/Docu-Buho/assets/125393214/58e677e1-e93d-4d08-8f2f-bff3c30c6607)
 
-### Build
+Aparecera todo las guias de instalacion.
 
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
